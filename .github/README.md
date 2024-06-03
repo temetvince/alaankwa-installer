@@ -35,5 +35,6 @@ If you prefer to manually download and install Alaankwa, you can do so by visiti
 - Make sure you have the necessary permissions to write to the `x3 terran conflict` directory.
 - If you encounter any errors, please verify that LU or SWLU is correctly installed.
 
-## Discord
-For assistance or to participate in our community, please join the [SWLU Discord](https://discord.gg/S587CRb)!
+## Where to Discuss
+- For assistance or to participate in our community, please join the [SWLU Discord](https://discord.gg/S587CRb)!
+- There's also an [Egosoft Forum thread](https://forum.egosoft.com/viewtopic.php?f=94&t=441824).
