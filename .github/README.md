@@ -10,6 +10,7 @@ This tool helps you install the latest version of Alaankwa. Please note that Ala
 - **Litcube's Universe (LU)** or **Star Wars Litcube's Universe (SWLU)** must be installed.
     - [Download LU](https://www.x3collective.com/lu-setup/lu-downloads/)
     - [Download SWLU](https://www.moddb.com/mods/star-wars-lu-swlu/downloads)
+    - Don't forget the [No-Steam Exe](https://www.egosoft.com/download/x3ap/bonus_en.php)
 - This script must be ran from inside your `x3 terran conflict` folder.
 
 ## Installation
