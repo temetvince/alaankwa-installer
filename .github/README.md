@@ -6,11 +6,11 @@ This tool helps you install the latest version of Alaankwa. Please note that Ala
    **Download this repostiory by clicking [HERE](https://github.com/temetvince/alaankwa-installer/archive/refs/heads/main.zip "The equivalent of clicking the Code button then Download ZIP").**
 
 ## Prerequisites
-
+- The **Albion Prelude (X3AP) Bonus Pack** must <ins>**NOT**</ins> be installed.
 - **Litcube's Universe (LU)** or **Star Wars Litcube's Universe (SWLU)** must be installed.
     - [Download LU](https://www.x3collective.com/lu-setup/lu-downloads/)
     - [Download SWLU](https://www.moddb.com/mods/star-wars-lu-swlu/downloads)
-- This script must be run from inside your `x3 terran conflict` folder.
+- This script must be ran from inside your `x3 terran conflict` folder.
 
 ## Installation
 1. **Place the Script:**
