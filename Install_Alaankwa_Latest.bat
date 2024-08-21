@@ -52,7 +52,11 @@ if %errorlevel% neq 0 (
 :: Copy the files to the current directory, excluding specific files and folders
 cls
 echo Copying files to the installation directory, excluding .gitattributes, .gitignore, and .git...
-robocopy "%destination%\alaankwa-main\x3 terran conflict" . /E /XD .git /XF .gitattributes .gitignore README.md
+if not exist "addon/t/9979-L044.xml" (
+    robocopy "%destination%\alaankwa-main\x3 terran conflict" . /E /XD .git /XF .gitattributes .gitignore README.md
+) else (
+    robocopy "%destination%\alaankwa-main\x3 terran conflict" . /E /XD .git /XF .gitattributes .gitignore README.md 9979-L044.xml
+)
 if %errorlevel% GEQ 8 (
     echo Error: File copying failed. Ensure you have the necessary permissions.
     pause
