@@ -1,6 +1,6 @@
 # Alaankwa Installer
 
-- This tool helps you install the latest version of [Alaankwa](https://github.com/temetvince/alaankwa) on top of Litcube's Universe (LU) or Star Wars Litcube's Universe (SWLU). 
+- This tool helps you install the latest version of [Alaankwa](https://github.com/temetvince/alaankwa) on top of Litcube's Universe (LU), Star Wars Litcube's Universe (SWLU), or SWLU's Galaxy in Chaos addon (GiC). 
 
 ## Download the Install Script
 
@@ -14,7 +14,7 @@
 2. **Run the Script:**
    Open your *x3 terran conflict* folder in File Explorer, then double-click *Install_Alaankwa_Latest.bat* to execute the script.
     - The script will:
-      - Check for the presence of a valid LU or SWLU installation.
+      - Check for the presence of a valid LU, SWLU, or GiC installation.
       - Download the latest version of Alaankwa.
       - Extract the files and copy them to the appropriate locations.
       - Clean up temporary files.
