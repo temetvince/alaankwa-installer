@@ -12,7 +12,7 @@
    Move the extracted *Install_Alaankwa_Latest.bat* to your root *x3 terran conflict* folder.
 
 2. **Run the Script:**
-   Open your *x3 terran conflict* folder in File Explorer, then double-click *Install_Alaankwa_Latest.bat* to execute the script.
+   Because of Windows security settings, double clicking on the installer script won't work. Instead, execute *Install_Alaankwa_Latest.bat* in a Terminal or Command Prompt.
     - The script will:
       - Check for the presence of a valid LU, SWLU, or GiC installation.
       - Download the latest version of Alaankwa.
